@@ -18,3 +18,5 @@ func main() {
 	fmt.Printf("%T\n", bs)
 	fmt.Println(string(bs))
 }
+
+// Marshaling and Unmarshaling is used when working on a string or a slice of bytes
